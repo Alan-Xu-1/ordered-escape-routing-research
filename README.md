@@ -127,6 +127,20 @@ The proposed Quick Sort based routing framework achieved the same routability as
 
 ---
 
+## Routing Example
+
+The following example demonstrates how the proposed method transforms an unrouted pin panel into a fully routed solution while preserving ordered routing constraints.
+
+### Input Panel
+
+![Input Panel](input-panel.png)
+
+### Final Routing Result
+
+![Routing Result](routing-result.png)
+
+---
+
 ## Research Areas
 
 - Ordered Escape Routing (OER)
