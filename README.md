@@ -176,9 +176,3 @@ The following example demonstrates how the proposed method transforms an unroute
 
 ---
 
-## Thesis Document
-
-The complete master's thesis can be added to this repository as a PDF document.
-
-```text
-thesis.pdf
